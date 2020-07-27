@@ -1,0 +1,9 @@
+./tic-tac-toe/node/node_modules
+./tic-tac-toe/npm-debug.log*
+./tic-tac-toe/yarn-error.log
+./tic-tac-toe/yarn.lock
+
+./tic-tac-toe/package-lock.json
+
+./socket-app/node_modules
+./socket-app/yarn.lock
