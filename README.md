@@ -20,4 +20,4 @@ This repository contains a 2 folders
     - Start your app using `yarn start` command.
     - For localhost, app with run at `localhost:8000` url.:raised_hands:
 
-> For running the app with authentication, you will need a authentication server. Contact the admin for further support :fire:
+> For running the app with authentication, you will need a authentication server. Contact admin for further support :fire:
