@@ -1,4 +1,4 @@
-# Multiplayer-tic-tac-toe-game
+# Multiplayer-tic-tac-toe-game :relaxed:
 
 > This repo contains a online **tic-tac-toe** game which you can play with your friends and love once while sitting at home.
 
@@ -11,4 +11,6 @@ This repository contains a 2 folders
 ## How to run this app
 
 1. socket-app
-    - Got to the folder socket-app, and run this node app by just typping `yarn start` command on your terminal
+    - Got to the folder socket-app, and run this node app by just typping `yarn start` command on your terminal :+1:
+2. tic-tac-toe
+    - Same as above you can run this app by typping `yarn start command` on your terminal
