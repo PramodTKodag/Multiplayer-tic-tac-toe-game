@@ -5,5 +5,10 @@
 ![alt text](https://res.cloudinary.com/pramodtk/image/upload/v1595883332/pramod/screenshot-localhost_8000-2020.07.28-02_24_57_v3aibo.png)
 
 This repository contains a 2 folders
-1. socket-app (Build on node.js)
-2. tic-tac-toe (Build on react.js)
+- socket-app (Build on node.js)
+- tic-tac-toe (Build on react.js)
+
+## How to run this app
+
+1. socket-app
+    - Got to the folder socket-app, and run this node app by just typping `yarn start` command on your terminal
