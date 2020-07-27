@@ -10,7 +10,9 @@ This repository contains a 2 folders
 
 ## How to run this app
 
-1. socket-app
+1. socket-app :zap:
     - Got to the folder socket-app, and run this node app by just typping `yarn start` command on your terminal :+1:
-2. tic-tac-toe
-    - Same as above you can run this app by typping `yarn start command` on your terminal
+2. tic-tac-toe :snowflake:
+    - Same as above you can run this app by typping `yarn start command` on your terminal :raised_hands:
+
+> For running the app with authentication, you will need a authentication server. Contact the admin for further support :fire:
