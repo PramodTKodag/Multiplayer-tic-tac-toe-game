@@ -8,7 +8,7 @@ This repository contains a 2 folders
 - socket-app (Build on node.js)
 - tic-tac-toe (Build on react.js)
 
-## How to run this app
+## How to run this app :question:
 
 1. socket-app :zap:
     - Got to the folder socket-app, and run this node app by just typping `yarn start` command on your terminal :+1:
