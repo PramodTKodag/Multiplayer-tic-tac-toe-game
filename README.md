@@ -1,5 +1,7 @@
 # Multiplayer-tic-tac-toe-game :relaxed:
 
+Muliplayer tic-tac-toe-game allow user to play game with their friends.
+
 > This repo contains a online **tic-tac-toe** game which you can play with your friends and love once while sitting at home.
 
 ![Game screen](https://res.cloudinary.com/pramodtk/image/upload/v1595883332/pramod/screenshot-localhost_8000-2020.07.28-02_24_57_v3aibo.png)
